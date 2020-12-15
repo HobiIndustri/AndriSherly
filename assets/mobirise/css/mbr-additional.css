@@ -141,6 +141,7 @@ body {
   font-family: 'Jost', sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
+  font-style: italic;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2rem;
@@ -149,6 +150,7 @@ body {
   font-family: 'Jost', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
+  color: white;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.5rem;
@@ -815,6 +817,7 @@ a {
 }
 .cid-sj8JP9DAAn .mbr-text {
   text-align: center;
+  color: #000000;
 }
 .cid-sj8JP9DAAn .mbr-section-subtitle {
   text-align: center;
@@ -868,6 +871,7 @@ a {
 }
 .cid-sj8MSujaHB .mbr-text {
   text-align: center;
+  color: #000000;
 }
 .cid-sj8CoslaKZ {
   padding-top: 0rem;
